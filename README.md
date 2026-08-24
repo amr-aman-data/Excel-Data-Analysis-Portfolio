@@ -31,4 +31,4 @@ The dashboard presents key marketing performance indicators and provides insight
 The analysis focuses on comparing marketing campaign performance using ROI, conversion rate, campaign cost, and customer conversions.
 
 It also helps evaluate the relationship between campaign spending and the number of customers generated.
-![Marketing Dashboard](./Screenshot_2026-08-24_234550_edited.png)
+![Marketing Dashboard](./Screenshot 2026-08-24 234550_edited.png)
