@@ -25,6 +25,7 @@ The dashboard provides an overview of campaign performance and helps identify tr
 
 The dashboard presents key marketing performance indicators and provides insights into campaign effectiveness, customer conversions, and campaign costs.
 
+
 ## Key Analysis
 
 The analysis focuses on comparing marketing campaign performance using ROI, conversion rate, campaign cost, and customer conversions.
