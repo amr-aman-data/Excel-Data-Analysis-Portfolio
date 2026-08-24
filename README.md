@@ -16,7 +16,6 @@ The dashboard provides an overview of campaign performance and helps identify tr
 
 ## Key Metrics
 
-- Average Campaign Cost
 - Average ROI
 - Average Conversion Rate
 - Average Customers / Conversions
@@ -33,3 +32,10 @@ The analysis focuses on comparing marketing campaign performance using ROI, conv
 
 It also helps evaluate the relationship between campaign spending and the number of customers generated.
 ## Dashboard Preview
+## Key Insights
+
+- Monitored ROI trends across different months to identify changes in campaign performance.
+- Compared ROI across marketing campaigns to identify high- and low-performing campaigns.
+- Analyzed ROI by marketing channel, including YouTube, Instagram, Google, and Facebook.
+- Evaluated Conversion Rate, Customer Acquisition Cost (CAC), and Customer Satisfaction.
+- Used interactive filters to analyze performance by campaign, channel, and date.
