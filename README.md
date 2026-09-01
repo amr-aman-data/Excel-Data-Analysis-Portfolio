@@ -39,3 +39,40 @@ It also helps evaluate the relationship between campaign spending and the number
 - Analyzed ROI by marketing channel, including YouTube, Instagram, Google, and Facebook.
 - Evaluated Conversion Rate, Customer Acquisition Cost (CAC), and Customer Satisfaction.
 - Used interactive filters to analyze performance by campaign, channel, and date.
+
+
+## 📊 Sales Dashboard
+
+### Project Overview
+
+An interactive Sales Dashboard created using Microsoft Excel to analyze sales performance and identify key business insights.
+
+### 🖼️ Dashboard Preview
+
+<p align="center">
+  <img src="Sales_Dashboard.png" alt="Sales Dashboard" width="100%">
+</p>
+
+### 🛠️ Tools & Skills
+
+- Microsoft Excel
+- Pivot Tables
+- Pivot Charts
+- Slicers
+- Data Analysis
+- Dashboard Design
+- KPI Analysis
+
+### 📈 Key Analysis
+
+- Sales Performance
+- Sales Trends
+- Product Performance
+- Customer Analysis
+- Quantity Analysis
+- KPI Analysis
+- Interactive filtering using Slicers
+
+### 📁 Project File
+
+[Download the Sales Dashboard Excel File](SALES.xlsx)
